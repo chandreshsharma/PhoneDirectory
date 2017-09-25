@@ -1,5 +1,5 @@
 # PhoneDirectory
 
-# This is the PhoneDirectory project.
-# The PhoneDirectory stores and retrieves people's phone numbers and addresses
+# This is the PhoneDirectory project to store and retrieve people's phone numbers and addresses
+i
 
